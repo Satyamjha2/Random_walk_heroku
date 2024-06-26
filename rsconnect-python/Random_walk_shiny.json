@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\jhash\\Documents\\GitHub\\Random_walk_shiny",
+        "app_url": "https://satyamjha2.shinyapps.io/randomwalk21/",
+        "app_id": 12239008,
+        "app_guid": null,
+        "title": "randomwalk2",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
